@@ -6,7 +6,7 @@ Challenges are split into:
 
 Web Exploitation
 
-Cryptography
+[Cryptography](https://github.com/3-Ways-to-Heck/ctfwriteups/tree/main/2021/SPR/picoctf2021/cryptography)
 
 Reverse Engineering
 
