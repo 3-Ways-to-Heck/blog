@@ -12,6 +12,6 @@ Reverse Engineering
 
 Forenics
 
-General Skills
+[General Skills](https://github.com/3-Ways-to-Heck/ctfwriteups/tree/main/2021/SPR/picoctf2021/general-skills)
 
 Binary Exploitation
