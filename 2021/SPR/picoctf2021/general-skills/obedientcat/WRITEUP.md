@@ -6,4 +6,4 @@
 
 There's plenty of ways solving this; the authors recommended to open this [file](https://github.com/3-Ways-to-Heck/ctfwriteups/blob/main/2021/SPR/picoctf2021/general-skills/obedientcat/flag) through the terminal but I just downloaded the file and opened it in notepad.
 
-picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
+```picoCTF{s4n1ty_v3r1f13d_4a2b35fd}```
