@@ -1,7 +1,7 @@
 ## Python Wrangling
 #### Authored by Ethan Evans
 
-TODO: Image
+![image](https://user-images.githubusercontent.com/71365470/112552435-0c805780-8d80-11eb-98d7-583f97c3e5c6.png)
 
 Here we are given three files. A `ende.py`, `pw.txt`, and `flag.txt.en`.
 
