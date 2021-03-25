@@ -1,7 +1,7 @@
 ## Wave a flag
 #### Authored by Ethan Evans
 
-TODO: Image
+![image](https://user-images.githubusercontent.com/71365470/112552515-3174ca80-8d80-11eb-95e2-347426f611a8.png)
 
 Here we are given one file, `warm`, an ELF executable. This means If you are using windows, you will need to either get this file onto a *nix system/VM or use the provided webshell using `wget`, `curl`, or the like.
 
