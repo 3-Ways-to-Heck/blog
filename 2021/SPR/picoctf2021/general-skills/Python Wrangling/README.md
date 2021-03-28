@@ -1,7 +1,9 @@
-## Python Wrangling
-#### Authored by Ethan Evans
+# Python Wrangling
+### Authored by Ethan Evans
 
 ![image](https://user-images.githubusercontent.com/71365470/112552435-0c805780-8d80-11eb-98d7-583f97c3e5c6.png)
+
+## Think
 
 Here we are given three files. A `ende.py`, `pw.txt`, and `flag.txt.en`.
 
@@ -12,7 +14,6 @@ Runnning `python ende.py -h` gives us a list of arguments. In our case we want t
 Please enter the password: 68f88f9368f88f9368f88f9368f88f93
 ```
 
-And we get the final flag:
-```
-picoCTF{4p0110_1n_7h3_h0us3_68f88f93}
-```
+## Solve
+
+And we get the final flag: ```picoCTF{4p0110_1n_7h3_h0us3_68f88f93}```
