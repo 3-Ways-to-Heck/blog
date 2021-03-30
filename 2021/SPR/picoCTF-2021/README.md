@@ -4,14 +4,14 @@
 
 Challenges are split into:
 
-[Web Exploitation](https://github.com/3-Ways-to-Heck/ctfwriteups/tree/main/2021/SPR/picoctf2021/web-exploitation)
+* [Web Exploitation](web-exploitation)
 
-[Cryptography](https://github.com/3-Ways-to-Heck/ctfwriteups/tree/main/2021/SPR/picoctf2021/cryptography)
+* [Cryptography](cryptography)
 
-Reverse Engineering
+* Reverse Engineering
 
-Forenics
+* Forensics
 
-[General Skills](https://github.com/3-Ways-to-Heck/ctfwriteups/tree/main/2021/SPR/picoctf2021/general-skills)
+* [General Skills](general-skills)
 
-Binary Exploitation
+* Binary Exploitation
