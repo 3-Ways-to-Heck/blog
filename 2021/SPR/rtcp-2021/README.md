@@ -1,0 +1,1 @@
+[RiceTeaCatPanda](https://riceteacatpanda.org/) is a CTF (Capture the Flag) competition that is aimed toward beginners, exploring a variety of security subjects, including but not limited to Cryptography, AI/ML Spoofing, Web Exploitation, Binary Exploitation, Forensics, General Computer Skills, and Data Analysis!
