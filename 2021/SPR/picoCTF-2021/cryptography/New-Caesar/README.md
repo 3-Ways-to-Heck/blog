@@ -8,7 +8,7 @@
 ## Solve
 
 
-And...we got the flag! `picoCTF{}`
+And...we got the flag! `picoCTF{et_tu?_23217b54456fb10e908b5e87c6e89156}`
 
 ## Notes
 
