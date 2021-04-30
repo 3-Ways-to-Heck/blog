@@ -1,5 +1,12 @@
-# 3 Ways to Heck CTF Writeups
+# website
 
-Want to contribute? Make a separate branch for yourself so you don't mess up the main repository if anything goes wrong. Open a pull request once you're finished and push it to the main repository if there are no conflicts. Leave the branch up so you can continue to modify from there.
+Put all your blog work here for now. If you have any ideas, just dump them in the blog chat. Things to do and research is on the Project section.
 
-Path format: `[Year]/[Season]/[CTF]`
+### to-do list
+
+* figure out what everyone wants to [research](https://samsclass.info/197/research.htm) (figure out a table of contents/subtopics for your article, try to tell it like a story )
+* actually make the website (grabbing a host, domain, figuring out our framework/layout)
+* migrate current ctfwriteup content over
+* compile all the research into several topics/papers
+
+dm me on disc if you have any questions or need some direction
