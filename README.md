@@ -8,5 +8,6 @@ Put all your blog work here for now. If you have any ideas, just dump them in th
 * actually make the website (grabbing a host, domain, figuring out our framework/layout)
 * migrate current ctfwriteup content over
 * compile all the research into several topics/papers
+* last to do but get the pathways of training.baycyber.net and possibly develop our own version?
 
 dm me on disc if you have any questions or need some direction
