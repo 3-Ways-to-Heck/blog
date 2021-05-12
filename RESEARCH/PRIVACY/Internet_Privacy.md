@@ -1,8 +1,8 @@
-#Internet privacy is not as simple as it seems#
+# Internet privacy is not as simple as it seems #
 
 What would you do if a single company had access to all of your personal information and could narrate your life’s story back to you?
 
-##**The Problem**##
+## **The Problem** ##
 
 That is the dilemma faced by millions across the globe with the rise of corporations like Apple, Facebook, and Google. 
 
@@ -10,8 +10,9 @@ Because of our ever-increasing dependence on the internet our exposure to compan
 
 A prime example of the info that tech giants have been able to collect on their users over the years is the Cambridge Analytica scandal. 87 million users and a lot of bad publicity can certainly cause a lot of doubt about the company. Facebook is not the only company to collect data at such a large capacity; as the tech giants have grown exponentially in the last decade the amount of data they collect has as well. Not only do they collect data from the apps they own, they buy data from other companies like Spotify, Uber, and other consumer focused apps. This leads to a mass data collection that ends up in the hands of a single body which can be considered not the best of situations.
 
-##**The Data**##
-	Big Data companies are known for collecting data of all types on all types of users.
+## **The Data** ##
+
+Big Data companies are known for collecting data of all types on all types of users.
  For example some types of data that Google collects:
 * Places you’ve searched in Google maps
 * Apps that you’ve used (if you own an Android device)
