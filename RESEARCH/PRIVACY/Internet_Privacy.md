@@ -13,14 +13,16 @@ A prime example of the info that tech giants have been able to collect on their 
 ## **The Data** ##
 
 Big Data companies are known for collecting data of all types on all types of users.
-For example some types of data that Google collects:
-* Places you’ve searched in Google maps
+
+
+For example, here are some types of data that Google collects:
+* Places you’ve searched in Google Maps
 * Apps that you’ve used (if you own an Android device)
 * Everything you’ve asked your Google device (if you own a Google device)
 * Every video you’ve watched on YouTube
 * Every comment you have left on YouTube
 * All Gmail files, downloads, emails and even drafts
 
-It is also possible to get your data back; Apple sends a bunch of excel sheets (csv’s) with your data. It is interesting to note that these excel spreadsheets did not contain any content information like text messages or photos, yet contained a lot of header information such as who you texted or called.
+It is also possible to get your data back; Apple sends a bunch of Excel sheets (csv’s) with your data. It is interesting to note that these Excel spreadsheets did not contain any content information like text messages or photos, yet contained header information such as contacts for call and text history.
 
 [editor's note: I've edited a bit of the grammar issues but once all the content is established and I've added my share we should definitely revise the last paragraph because it breaks flow and the sentences are chopped up pretty weirdly]::
