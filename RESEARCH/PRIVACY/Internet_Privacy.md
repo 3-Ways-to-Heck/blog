@@ -1,4 +1,6 @@
 # Internet privacy is not as simple as it seems #
+**By: Kumel Hasni**
+**Edited by: Matthew Prado**
 
 What would you do if a single company had access to all of your personal information and could narrate your life’s story back to you?
 
@@ -26,3 +28,11 @@ For example, here are some types of data that Google collects:
 It is also possible to get your data back; Apple sends a bunch of Excel sheets (csv’s) with your data. It is interesting to note that these Excel spreadsheets did not contain any content information like text messages or photos, yet contained header information such as contacts for call and text history.
 
 [editor's note: I've edited a bit of the grammar issues but once all the content is established and I've added my share we should definitely revise the last paragraph because it breaks flow and the sentences are chopped up pretty weirdly]::
+<!--
+references to look into:
+https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/
+https://www.aclu.org/issues/privacy-technology/internet-privacy
+https://builtin.com/big-data/online-privacy
+https://staysafeonline.org/resource/data-privacy-day-2021/
+-->
+
