@@ -34,5 +34,7 @@ https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy
 https://www.aclu.org/issues/privacy-technology/internet-privacy
 https://builtin.com/big-data/online-privacy
 https://staysafeonline.org/resource/data-privacy-day-2021/
+https://www.secureworldexpo.com/industry-news/data-privacy-2021
+https://www.accessnow.org/the-future-of-data-protection-what-we-expect-in-2021/
 -->
 
