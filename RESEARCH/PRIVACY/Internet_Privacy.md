@@ -1,5 +1,5 @@
 # Internet privacy is not as simple as it seems #
-**By: Kumel Hasni**
+**By: Kumel Hasni** <br /> 
 **Edited by: Matthew Prado**
 
 What would you do if a single company had access to all of your personal information and could narrate your life’s story back to you?
@@ -25,10 +25,21 @@ For example, here are some types of data that Google collects:
 * Every comment you have left on YouTube
 * All Gmail files, downloads, emails and even drafts
 
-It is also possible to get your data back; Apple sends a bunch of Excel sheets (csv’s) with your data. It is interesting to note that these Excel spreadsheets did not contain any content information like text messages or photos, yet contained header information such as contacts for call and text history.
+### What the Data is Used For ###
+
+Even though the pandemic struck hard and with no remorse, it definitely did not stop major companies from collecting your data. Here is just a few examples - 
+
+* Using your phone data to spy and track BLM protestors
+* Amazon using shopping data to outperform and 'ruin' many small businesses
+* EasyJet exposing the data of almost 10 million users in Europe
+* The Sao Paulo Metro in Brazil using its commutters as 'test subjects' for its new facial recognition technology
+* Using tracing apps and special passports to track Covid Cases
+
+
+<!-- It is also possible to get your data back; Apple sends a bunch of Excel sheets (csv’s) with your data. It is interesting to note that these Excel spreadsheets did not contain any content information like text messages or photos, yet contained header information such as contacts for call and text history.
 
 [editor's note: I've edited a bit of the grammar issues but once all the content is established and I've added my share we should definitely revise the last paragraph because it breaks flow and the sentences are chopped up pretty weirdly]::
-<!--
+
 references to look into:
 https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/
 https://www.aclu.org/issues/privacy-technology/internet-privacy
