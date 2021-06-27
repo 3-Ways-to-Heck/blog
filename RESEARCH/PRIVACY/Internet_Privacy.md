@@ -44,6 +44,20 @@ Even though the pandemic struck hard and with no remorse, it definitely did not 
   
   Amongst concerns of data privacy, nations have begun implementing measures to make sure the data doesn't fall into a foreign government's hands; the aforementioned policies in the United States are examples of this. 
   
+ ## Putting the leashes on Big Tech ##
+  As 2020 and the corona-virus has taken its toll on in-person shopping, advertising and marketing have been the primary reasons for the growth in revenue and pull to online content. With the correlation between e-commerce and debates about data-privacy it is clear that as online shopping grows so will these concerns. The debates concerning data privacy and protection have been argued over for many years, however something about the large spike in usage of the internet caused by Covid-19 did something. In 2020, we experienced a historic antitrust hearing in which nearly all of the members of congress questioned Big Tech such as Google, Apple, and Amazon about their power and knowledge of the general population. 
+  
+  It is necessary to understand how much knowledge and power such companies have over us. For example Facebook's data leak which released the information of 533 million people, or Google's acquiring of Fitbit which gives Google access to the data of millions of other peoples. Big Tech companies have the information of hundreds of millions of people at their fingertips, a thought to be considered. 
+  
+ ## How is Data provacy changing? ##
+  Companies are finally starting to make data privacy as part of there proposition to their customers. In April of 2021, Apple released a new privacy update on their iOS and soon followed up with more changes regarding user's privacy outlined in their WorldWide Developer's Conference. Similarly Google has started to phase out third party cookies and it's end should come in the comign years. 
+  
+  Nonetheless, there is a clear gap between how business owners/leaders view data privacy and how their users do. In a recent <a href= "https://www.pwc.com/us/en/services/consulting/cybersecurity-privacy-forensics/library/defining-data-trust-strategy.html"> PWC survey</a>, 55% of leaders say that their users and consumers trust them their data more now compared to 2 years ago. On the other hand, 76% of users express that sharing their data is a 'necessary evil'. 
+  
+  Even so, there has been significant change and a movement that seeks for data privacy. Examples can be seen with the growth in usage of Signal and Brave. 
+  
+  Data privacy, is not some average issue and will continue to haunt us for the coming years. The best thing to do is to make sure we are not lending unnecesarry personal information to such companies and pray that no harm comes. It is important for us to self-educate ourselves and make sure we don't do anything our future-selves will regret. 
+  
   
 
 <!-- It is also possible to get your data back; Apple sends a bunch of Excel sheets (csv’s) with your data. It is interesting to note that these Excel spreadsheets did not contain any content information like text messages or photos, yet contained header information such as contacts for call and text history.
@@ -52,7 +66,6 @@ Even though the pandemic struck hard and with no remorse, it definitely did not 
 
 references to look into:
 https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/
-https://www.aclu.org/issues/privacy-technology/internet-privacy
 https://builtin.com/big-data/online-privacy
 https://staysafeonline.org/resource/data-privacy-day-2021/
 https://www.secureworldexpo.com/industry-news/data-privacy-2021
